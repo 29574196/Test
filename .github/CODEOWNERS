@@ -1,0 +1,4 @@
+# CODEOWNERS file
+# Only the admin (@29574196) can approve changes to the main branch.
+# All files require admin review before merging.
+* @29574196
